@@ -63,7 +63,8 @@ class DemoNavbar extends React.Component {
       collapseClasses: ""
     });
   };
-
+  
+  
   render() {
     return (
       <>
