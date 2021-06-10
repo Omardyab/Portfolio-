@@ -533,14 +533,14 @@ class Landing extends React.Component {
                         <small className="h6 text-muted">Web Developer</small>
                       </h5>
                       <div className="mt-3">
-                        <Button
+                        {/* <Button
                           className="btn-icon-only rounded-circle"
                           color="warning"
                           href="#pablo"
                           onClick={e => e.preventDefault()}
                         >
                           <i className="fa fa-twitter" />
-                        </Button>
+                        </Button> */}
                         <Button
                           className="btn-icon-only rounded-circle ml-1"
                           color="warning"
