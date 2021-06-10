@@ -70,7 +70,7 @@ class CardsFooter extends React.Component {
                   Thank you for supporting us!
                 </h3>
                 <h4 className="mb-0 font-weight-light">
-                  Let's get in touch on any of these platforms.
+                  Let's get in touch.
                 </h4>
               </Col>
               {/* <Col className="text-lg-center btn-wrapper" lg="6">
@@ -99,8 +99,8 @@ class CardsFooter extends React.Component {
                     <i className="fa fa-facebook-square" />
                   </span>
                 </Button>
-                <UncontrolledTooltip delay={0} target="tooltip837440414">
-                  Like us
+                {/* <UncontrolledTooltip delay={0} target="tooltip837440414">
+                  Like us */}
                 {/* </UncontrolledTooltip>
                 <Button
                   className="btn-icon-only rounded-circle ml-1"
