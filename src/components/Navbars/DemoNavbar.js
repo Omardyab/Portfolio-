@@ -211,7 +211,7 @@ class DemoNavbar extends React.Component {
                       Like us on Facebook
                     </UncontrolledTooltip>
                   </NavItem>
-                  <NavItem>
+                  {/* <NavItem>
                     <NavLink
                       className="nav-link-icon"
                       href="https://www.instagram.com/creativetimofficial"
@@ -226,8 +226,8 @@ class DemoNavbar extends React.Component {
                     <UncontrolledTooltip delay={0} target="tooltip356693867">
                       Follow us on Instagram
                     </UncontrolledTooltip>
-                  </NavItem>
-                  <NavItem>
+                  </NavItem> */}
+                  {/* <NavItem>
                     <NavLink
                       className="nav-link-icon"
                       href="https://twitter.com/creativetim"
@@ -242,11 +242,11 @@ class DemoNavbar extends React.Component {
                     <UncontrolledTooltip delay={0} target="tooltip184698705">
                       Follow us on Twitter
                     </UncontrolledTooltip>
-                  </NavItem>
+                  </NavItem> */}
                   <NavItem>
                     <NavLink
                       className="nav-link-icon"
-                      href="https://github.com/creativetimofficial/argon-design-system-react"
+                      href="https://github.com/Omardyab"
                       id="tooltip112445449"
                       target="_blank"
                     >
