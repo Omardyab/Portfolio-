@@ -37,8 +37,8 @@ import profile from "assets/img/theme/profile.jpg";
 class CardsFooter extends React.Component {
   render() {
     return (
-      <>
-        <footer className="footer has-cards">
+      // <>
+        {/* <footer className="footer has-cards">
           <Container className="container-lg">
             <Row>
               <Col className="mb-5 mb-md-0" md="6">
@@ -72,7 +72,7 @@ class CardsFooter extends React.Component {
                 <h4 className="mb-0 font-weight-light">
                   Let's get in touch 
                 </h4>
-              </Col>
+              </Col> */}
               {/* <Col className="text-lg-center btn-wrapper" lg="6">
                 <Button
                   className="btn-icon-only rounded-circle"
@@ -131,7 +131,7 @@ class CardsFooter extends React.Component {
                   Star on Github
                 </UncontrolledTooltip>
               </Col> */}
-            </Row>
+            {/* </Row>
             <hr />
             <Row className="align-items-center justify-content-md-between">
               <Col md="6">
@@ -188,6 +188,6 @@ class CardsFooter extends React.Component {
       </>
     );
   }
-}
+} */}
 
 export default CardsFooter;
