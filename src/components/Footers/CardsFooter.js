@@ -73,7 +73,7 @@ class CardsFooter extends React.Component {
                   Let's get in touch 
                 </h4>
               </Col>
-              <Col className="text-lg-center btn-wrapper" lg="6">
+              {/* <Col className="text-lg-center btn-wrapper" lg="6">
                 <Button
                   className="btn-icon-only rounded-circle"
                   color="twitter"
@@ -130,7 +130,7 @@ class CardsFooter extends React.Component {
                 <UncontrolledTooltip delay={0} target="tooltip495507257">
                   Star on Github
                 </UncontrolledTooltip>
-              </Col>
+              </Col> */}
             </Row>
             <hr />
             <Row className="align-items-center justify-content-md-between">
